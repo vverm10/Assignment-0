@@ -1,4 +1,9 @@
-# Assignment-0
+### Github account username - <vverma10@myseneca.ca>
+
+#### Link to the git hub account-- <https://github.com/vverm10/Assignment-0.git>
+
+### resources used by me --<http://rmarkdown.rstudio.com/,https://github.com,https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf>
+
 #### I am going to show the To Do task 1 by one, I used the variables for the to do according to the To Do task number, For example To Do 1 is represented as firsttodotask.
 
 #### - Compute the difference between 2014 and the year you started at this university and divide this by the difference between 2014 and the year you were born. Multiply this with 100 to get the percentage of your life you have spent at this university. Use brackets if you need them.
